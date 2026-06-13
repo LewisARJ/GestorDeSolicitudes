@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROYECTOS\\DEV\\GestorDeSolicitudes\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3A5275-3343-4F56-8EEC-51CC50227175}|GestorDeSolicitud.API\\GestorDeSolicitud.API.csproj|c:\\proyectos\\dev\\gestordesolicitudes\\src\\gestordesolicitud.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3A5275-3343-4F56-8EEC-51CC50227175}|GestorDeSolicitud.API\\GestorDeSolicitud.API.csproj|solutionrelative:gestordesolicitud.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3A5275-3343-4F56-8EEC-51CC50227175}|GestorDeSolicitud.API\\GestorDeSolicitud.API.csproj|c:\\proyectos\\dev\\gestordesolicitudes\\src\\gestordesolicitud.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F3A5275-3343-4F56-8EEC-51CC50227175}|GestorDeSolicitud.API\\GestorDeSolicitud.API.csproj|solutionrelative:gestordesolicitud.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\PROYECTOS\\DEV\\GestorDeSolicitudes\\src\\GestorDeSolicitud.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GestorDeSolicitud.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\PROYECTOS\\DEV\\GestorDeSolicitudes\\src\\GestorDeSolicitud.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GestorDeSolicitud.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-13T04:42:50.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PROYECTOS\\DEV\\GestorDeSolicitudes\\src\\GestorDeSolicitud.API\\Program.cs",
+              "RelativeDocumentMoniker": "GestorDeSolicitud.API\\Program.cs",
+              "ToolTip": "C:\\PROYECTOS\\DEV\\GestorDeSolicitudes\\src\\GestorDeSolicitud.API\\Program.cs",
+              "RelativeToolTip": "GestorDeSolicitud.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T04:41:22.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
