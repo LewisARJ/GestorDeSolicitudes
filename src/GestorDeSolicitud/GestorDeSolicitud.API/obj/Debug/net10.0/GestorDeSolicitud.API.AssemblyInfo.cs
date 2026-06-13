@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestorDeSolicitud.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+301b54fa0a146f4e554b8ee7adab9e6b9f41dd40")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d4de740611be92b482c3ead479ddd1902964991")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestorDeSolicitud.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestorDeSolicitud.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
